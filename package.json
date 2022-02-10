@@ -7,7 +7,7 @@
     "@material-ui/styles": "^3.0.0-alpha.10",
     "ajv": "^6.9.1",
     "jss": "^9.7.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "prop-types": "latest",
     "react": "^16.8.0",
     "react-countup": "^4.1.3",
